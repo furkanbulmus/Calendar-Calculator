@@ -1,0 +1,15 @@
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\bin\Debug\net7.0\Calendar Calculator.exe
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\bin\Debug\net7.0\Calendar Calculator.deps.json
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\bin\Debug\net7.0\Calendar Calculator.runtimeconfig.json
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\bin\Debug\net7.0\Calendar Calculator.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\bin\Debug\net7.0\Calendar Calculator.pdb
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.csproj.AssemblyReference.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.AssemblyInfoInputs.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.AssemblyInfo.cs
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\refint\Calendar Calculator.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.pdb
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\Calendar Calculator.genruntimeconfig.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Calendar Calculator\obj\Debug\net7.0\ref\Calendar Calculator.dll
